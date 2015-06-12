@@ -1,104 +1,134 @@
-var fs = require('fs'),
-    path = require('path');
+/*
+  How it _should_ work:
+  - if the json exists, open and index it (by href?)
+  - open and cleanup the markdown
+  - iterate over lines:
+    - case category: allCategories.push, make current
+    - case link: merge with old meta, link.categories.push[cat], allLinks.push
+  - stringify and write
+ */
 
-var argv = process.argv,
-    markdownPath, jsonOutPath, moreMetaData;
+var FS = require('fs'),
+    Path = require('path'),
+    _ = require('lodash');
 
-if ( !(markdownPath = argv[2]) ||
-     !(jsonOutPath = argv[3]) )
-  return console.error('Usage: <source.md> <destination.json> [<data-to-merge.json> [varInTheMergeData]]');
+(function md_import() {
+  var argv = process.argv,
+      cfg = {
+        linksID: 'allTheLinks',
+        catsID: 'categories',
+        spaces: 2,
+        source: argv[2],
+        destination: argv[3]
+      },
+      oldTree, newTree, oldTreeIndex, md;
 
-if (argv[4])
-  moreMetaData = {
-    path: argv[4],
-    id: argv[5] || path.base(argv[4], '.json')
-  };
+  // check cli arguments
+  if ( !(cfg.source) || !(cfg.destination) )
+    return console.error('Usage: <source.md> <destination.json>');
 
-fs.readFile(markdownPath, {encoding: 'UTF-8', flag: 'r'}, function (err, data) {
-	if (err)
-    return console.error('Couldn\'t open ' + path.resolve(markdownPath));
+  // try and import the old JSON data (or at leas create structure)
+  oldTree = readJson_maybe(cfg.destination);
+  oldTreeIndex = _.indexBy(oldTree, cfg.linksID);
 
-  var allLinks = [],
-      categories = [];
-      currentCategory = "",
-      current = {},
-      moreMeta = [],
-      moreMetaIndex = {},
-      currentMeta = {},
-      currentMetaIndex = {};
+  // read and parse markdown (merging the old JSON)
+  md = getMdLines(Path.resolve(cfg.source));
+  newTree = parseMarkdown(md, oldTreeIndex);
 
-  if (moreMetaData) {
-    try {
-      var moreMetaString = fs.readFileSync(moreMetaData.path, 'utf8');
-    }
-    catch (e) {
-      return console.error('Couldn\'t open ' + path.resolve(moreMetaData.path));
-    }
+  // write the JSON
+  writeJson(cfg.destination, newTree, cfg.spaces);
+})();
 
-    if (!(moreMeta = JSON.parse(moreMetaString)[moreMetaData.id]))
-      return console.error('Couln\'t get a value of ' + moreMetaData.id + ' from ' + moreMetaData.path);
+function readJson_maybe(file) {
+  var tree;
 
-    moreMeta.forEach(function(el) {
-      moreMetaIndex[el.title] = el.items;
-    });
+  try {
+    tree = JSON.parse(FS.readFileSync(file, 'utf8'));
+  }
+  catch (e) {
+    tree = {};
+    tree[cfg.linksID] = [];
+    tree[cfg.catsID] = [];
   }
 
-	data.split(/\r?\n/).forEach( function(line) {
-    var match;
+  return tree;
+}
+
+function getMdLines(file) {
+  var buffer = '';
+
+  try {
+    buffer = FS.readFileSync(file, {encoding: 'UTF-8', flag: 'r'});
+  }
+  catch (e) {
+    console.error('Couldn\'t open ' + Path.resolve(file));
+    process.exit(1);
+  }
+
+  return inputCleanup(buffer).split(/\r?\n/);
+}
+
+function inputCleanup(string) {
+  // $TODO
+  return string;
+}
+
+function parseMarkdown(lines, oldJsonIndex) {
+  var categories = {},
+      links = {},
+      cat = '-',
+      tree = {},
+      linksIndex = {};
+
+  lines.forEach(parseLine);
+  tree[cfg.linksID] = links;
+  tree[cfg.catsID] = categories;
+  return tree;
+
+  function parseLine(line) {
+    var match, link, meta, href;
 
     if ( match = line.match(/^\s*#+\s(.*)$/) ) {
       // Category header
-      currentCategory = match[1];
-      categories.push(currentCategory);
-
-      if (currentMeta = moreMetaIndex[currentCategory]) {
-        currentMetaIndex = [];
-        currentMeta.forEach(function(el, i) {
-          currentMetaIndex[el.title] = el;
-        });
-      }
+      categories.push(cat = match[1]);
     } else if ( match = line.match(/^\s*[\*\+\-]\s+\[(.+?)\]\((.+?)\)(\s+(.*))?$/) ) {
-      current = {
-        title: match[1],
-        href:  match[2],
-        short_description: match[4],
-        categories: [currentCategory]
-      };
-
-      if (moreMetaData)
-        enhanceMeta(current, currentMetaIndex[current.title]);
-      allLinks.push(current);
-    }
-
-    function enhanceMeta(rec, meta) {
-      if (!meta || typeof meta != 'object')
+      // check for dupes
+      href = match[2];
+      if (_.has(linksIndex, href))
         return;
 
-      if (meta.author)
-        rec.author = meta.author;
+      link = {
+        title: match[1],
+        href:  href,
+        short_description: match[4],
+        categories: [cat]
+      };
 
-      if (meta.description[0] &&
-          ( !(rec.short_description) || 0 == rec.short_description.indexOf('by') )
-      )
-        rec.short_description = meta.description[0];
+      // merge old meta
+      if (meta = oldJsonIndex[href])
+        link = _.merge(meta, link);
 
-      if (meta.description[1])
-        rec.long_description = meta.description[1];
-
-      if (meta.tags)
-        rec.tags = meta.tags;
-
-      if (meta.level)
-        rec.level = meta.level;
-
-      if (meta.rank)
-        rec.rank = meta.rank;
+      links.push(link);
+      linksIndex[href] = link;
     }
-  });
+  }
+}
 
-  var theBigString = JSON.stringify({allTheLinks: allLinks, linkCategories: categories}, null, 2);
-  fs.writeFile(jsonOutPath, theBigString, function(err){
-    if (err)
-      console.error('Couldn\'t write' + path.resolve(jsonOutPath));
-  });
-});
+function writeJson(file, tree, spaces) {
+  spaces || (spaces = 2);
+  var theBigString = JSON.stringify(tree, null, spaces);
+
+  try {
+    FS.writeFileSync(file, theBigString);
+  }
+  catch (e) {
+    console.error('Couldn\'t write' + Path.resolve(jsonOutPath));
+    process.exit(1);
+  }
+}
+
+function t(s,d){
+  for(var p in d)
+    s=s.replace(new RegExp('{'+p+'}','g'), d[p]);
+  return s;
+}
