@@ -4,7 +4,7 @@
   "description": "Essential JavaScript Links website.",
   "scripts": {
     "cleanup": "cat README.md | node scripts/cleanup.js > build/README.md",
-    "md-import": "node scripts/md-import.js src/data/essential-javascript-links.md src/data/essential-javascript-links.json src/data/theBookData.json theBookData"
+    "md-import": "node scripts/md-import.js README.md src/data/essential-javascript-links.json"
   },
   "engines": {
     "node": "0.10.x"
@@ -33,6 +33,7 @@
     "gulp-sass": "^1.3.3",
     "gulp-sourcemaps": "^1.5.1",
     "gulp-watch": "^4.2.4",
+    "lazy.js": "^0.4.0",
     "node-sass": "^2.1.1"
   }
 }
