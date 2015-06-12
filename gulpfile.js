@@ -42,7 +42,8 @@ gulp.task('assets', function() {
 gulp.task('templates', function() {
   return gulp.src('./src/jade/*.jade')
     .pipe(data( function(file) {
-        var json = require('./src/data/essential-javascript-links.json');
+        var json = {};
+        json.bigData = require('./src/data/essential-javascript-links.json');
         json._ = lodash;
         return json;
       } ))

@@ -28,7 +28,7 @@ mixin ListItem(d, index, isCompact)
 
 mixin List(cat, index)
   - var theID = ('000' + index).slice(-4) + '-' + cat.replace(/\s/g, '-');
-  - var catLinks = _(allTheLinks)
+  - var catLinks = _(bigData.links)
   -                 .filter(function(link) { return (_.contains(link.categories, cat)); })
   -                 .sortBy(function(link) { return (100 - (link.rank || -1))})
   -                 .value();

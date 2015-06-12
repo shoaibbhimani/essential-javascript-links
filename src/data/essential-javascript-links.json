@@ -1,5 +1,5 @@
 {
-  "allTheLinks": [
+  "links": [
     {
       "title": "Learn JavaScript Essentials (for all skill levels)",
       "href": "https://medium.com/javascript-scene/learn-javascript-b631a4af11f2",
@@ -33,7 +33,7 @@
     {
       "title": "How to Fix the `class` Keyword",
       "href": "https://medium.com/p/how-to-fix-the-es6-class-keyword-2d42bb3f4caf",
-      "short_description": "TL;DR `class` is broken. Don't use it until it's fixed.",
+      "short_description": "TL;DR `class` is broken. Don’t use it until it’s fixed.",
       "categories": [
         "Required Reading (Online resources)"
       ]
@@ -42,6 +42,14 @@
       "title": "JavaScript Objects",
       "href": "http://davidwalsh.name/javascript-objects",
       "short_description": "An excellent explanation of inheritance in JavaScript by Kyle Simpson",
+      "categories": [
+        "Required Reading (Online resources)"
+      ]
+    },
+    {
+      "title": "Unapply attack",
+      "href": "http://glebbahmutov.com/blog/unapply-attack/",
+      "short_description": "Make your JS apps more secure by freezing builtins.",
       "categories": [
         "Required Reading (Online resources)"
       ]
@@ -72,7 +80,7 @@
     {
       "title": "Reactive MVC and the Virtual DOM",
       "href": "http://futurice.com/blog/reactive-mvc-and-the-virtual-dom",
-      "short_description": "Great read, even if you're not a React user.",
+      "short_description": "Great read, even if you’re not a React user.",
       "categories": [
         "Required Reading (Online resources)"
       ]
@@ -167,7 +175,7 @@
     {
       "title": "Delivering the Goods",
       "href": "https://www.youtube.com/watch?v=R8W_6xWphtw",
-      "short_description": "Paul Irish on one of the most important but overlooked topics in the development world today - page load times.",
+      "short_description": "Paul Irish on one of the most important but overlooked topics in the development world today — page load times.",
       "categories": [
         "Required Viewing"
       ]
@@ -175,7 +183,7 @@
     {
       "title": "Simplicity Matters",
       "href": "https://www.youtube.com/watch?v=rI8tNMsozo0",
-      "short_description": "A later version of the influential talk, \"Simple Made Easy\" by [Rich Hickey](https://twitter.com/richhickey)",
+      "short_description": "A later version of the influential talk, “Simple Made Easy” by [Rich Hickey](https://twitter.com/richhickey)",
       "categories": [
         "Required Viewing"
       ]
@@ -198,7 +206,7 @@
     {
       "title": "JavaScript for Kids",
       "href": "http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2",
-      "short_description": "A playful introduction to programming.",
+      "short_description": "by Nick Morgan",
       "categories": [
         "Books"
       ],
@@ -216,7 +224,7 @@
     {
       "title": "Eloquent JavaScript",
       "href": "http://eloquentjavascript.net/",
-      "short_description": "A modern introduction to programming.",
+      "short_description": "by Marijn Haverbeke",
       "categories": [
         "Books"
       ],
@@ -233,7 +241,7 @@
     {
       "title": "JavaScript: The Good Parts",
       "href": "http://www.amazon.com/gp/product/0596517742?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596517742&linkCode=shr&tag=ericleads-20&linkId=IJKESYSOTWGC27DR",
-      "short_description": "Unearthing the Excellence in JavaScript.",
+      "short_description": "by Douglas Crockford",
       "categories": [
         "Books"
       ],
@@ -250,7 +258,7 @@
     {
       "title": "Effective JavaScript",
       "href": "http://www.amazon.com/gp/product/0321812182?ie=UTF8&camp=213733&creative=393185&creativeASIN=0321812182&linkCode=shr&tag=ericleads-20&linkId=JIC63I267I6UDQQZ",
-      "short_description": "68 Specific Ways to Harness the Power of JavaScript.",
+      "short_description": "by David Herman",
       "categories": [
         "Books"
       ],
@@ -267,7 +275,7 @@
     {
       "title": "Programming JavaScript Applications",
       "href": "http://pjabook.com",
-      "short_description": "Robust Web architecture with Node, HTML5 and modern JS libraries.",
+      "short_description": "by Eric Elliott",
       "categories": [
         "Books"
       ],
@@ -284,7 +292,7 @@
     {
       "title": "JavaScript: The Definitive Guide",
       "href": "http://www.amazon.com/gp/product/0596805527?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596805527&linkCode=shr&tag=ericleads-20&linkId=AENIF5KLRQI3N335",
-      "short_description": "_The_ JS bible currently in its 6th edition (=ES5).",
+      "short_description": "by David Flanagan",
       "categories": [
         "Books"
       ],
@@ -302,9 +310,9 @@
       "rank": 4
     },
     {
-      "title": "You Don't Know JS",
+      "title": "You Don’t Know JS",
       "href": "https://github.com/getify/You-Dont-Know-JS",
-      "short_description": "A more complete understanding of JavaScript.",
+      "short_description": "by Kyle Simpson",
       "categories": [
         "Books"
       ],
@@ -324,7 +332,7 @@
     {
       "title": "Understanding ECMAScript 6",
       "href": "https://leanpub.com/understandinges6/read/",
-      "short_description": "It is now oficially called ECMAScript 2015, but that's beside the point.",
+      "short_description": "by Nicholas C. Zakas",
       "categories": [
         "Books"
       ],
@@ -350,7 +358,7 @@
     {
       "title": "Node.js in Action",
       "href": "http://www.manning.com/cantelon/",
-      "short_description": "An example-driven tutorial.",
+      "short_description": "by Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich",
       "categories": [
         "Books"
       ],
@@ -368,7 +376,7 @@
     {
       "title": "The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal",
       "href": "http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI",
-      "short_description": "A man that made computing personal (not Jobs).",
+      "short_description": "by M. Mitchell Waldrop",
       "categories": [
         "Books"
       ],
@@ -385,7 +393,7 @@
     {
       "title": "WebGL Fundamentals",
       "href": "http://webglfundamentals.org/",
-      "short_description": "An interactive online book about graphics programming.",
+      "short_description": "by Greggman — An interactive online book about graphics programming.",
       "categories": [
         "Books"
       ],
@@ -410,7 +418,7 @@
     {
       "title": "Node",
       "href": "http://nodejs.org/",
-      "short_description": "Then install Node (with nvm). You'll need this even if you're a front-end dev.",
+      "short_description": "Then install Node (with nvm). You’ll need this even if you’re a front-end dev.",
       "categories": [
         "Dev tools & collaboration"
       ]
@@ -463,6 +471,14 @@
       ]
     },
     {
+      "title": "Slate",
+      "href": "https://github.com/tripit/slate",
+      "short_description": "Generate beautiful API docs for your apps",
+      "categories": [
+        "Dev tools & collaboration"
+      ]
+    },
+    {
       "title": "Nitrous.IO",
       "href": "https://www.nitrous.io/join/uJcRo6yQDvs?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral",
       "short_description": "(Supports live collaboration / pair programming)",
@@ -486,8 +502,24 @@
       ]
     },
     {
+      "title": "Babel Repl",
+      "href": "https://babeljs.io/repl",
+      "short_description": "The Babel REPL with compiled output",
+      "categories": [
+        "Dev tools & collaboration"
+      ]
+    },
+    {
       "title": "ES6 Fiddle",
       "href": "http://www.es6fiddle.net/",
+      "categories": [
+        "Dev tools & collaboration"
+      ]
+    },
+    {
+      "title": "CodePicNic",
+      "href": "https://codepicnic.com/",
+      "short_description": "Embed interactive full-stack snippets & demos",
       "categories": [
         "Dev tools & collaboration"
       ]
@@ -503,6 +535,14 @@
     {
       "title": "How to use NPM as a Build Tool",
       "href": "http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/",
+      "categories": [
+        "Building"
+      ]
+    },
+    {
+      "title": "pre-commit",
+      "href": "https://github.com/observing/pre-commit",
+      "short_description": "Easily configure pre-commit hooks for your package",
       "categories": [
         "Building"
       ]
@@ -603,17 +643,9 @@
     {
       "title": "ES6 tools",
       "href": "https://github.com/addyosmani/es6-tools",
-      "short_description": "Addy Osmani's ES6 Tools list",
+      "short_description": "Addy Osmani’s ES6 Tools list",
       "categories": [
         "Transpilers"
-      ]
-    },
-    {
-      "title": "Node.js",
-      "href": "http://nodejs.org/",
-      "short_description": "Server side JavaScript and more",
-      "categories": [
-        "JavaScript environments"
       ]
     },
     {
@@ -659,7 +691,7 @@
     {
       "title": "HTML5 Boilerplate",
       "href": "https://github.com/h5bp/html5-boilerplate",
-      "short_description": "You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com).",
+      "short_description": "You’ll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com).",
       "categories": [
         "Libraries"
       ]
@@ -723,7 +755,7 @@
     {
       "title": "jQuery",
       "href": "http://jquery.com/",
-      "short_description": "Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.",
+      "short_description": "Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites — for good reason.",
       "categories": [
         "Libraries"
       ]
@@ -755,7 +787,7 @@
     {
       "title": "RxJS",
       "href": "https://github.com/Reactive-Extensions/RxJS",
-      "short_description": "Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)",
+      "short_description": "Reactive extensions for JavaScript. [What’s reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)",
       "categories": [
         "Libraries"
       ]
@@ -819,7 +851,7 @@
     {
       "title": "cuid",
       "href": "https://github.com/ericelliott/cuid",
-      "short_description": "GUIDs are broken - use cuid, instead.",
+      "short_description": "GUIDs are broken — use cuid, instead.",
       "categories": [
         "Libraries"
       ]
@@ -849,6 +881,14 @@
       ]
     },
     {
+      "title": "rimraf",
+      "href": "https://github.com/isaacs/rimraf",
+      "short_description": "`rm -rf` util for nodejs. Great for npm scripts.",
+      "categories": [
+        "Libraries"
+      ]
+    },
+    {
       "title": "Introducing React",
       "href": "https://www.youtube.com/watch?v=XxVg_s8xAms",
       "categories": [
@@ -856,7 +896,7 @@
       ]
     },
     {
-      "title": "JSX Looks Like an Abomination but it's Good for You",
+      "title": "JSX Looks Like an Abomination but it’s Good for You",
       "href": "https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918",
       "short_description": "My take on JSX",
       "categories": [
@@ -903,7 +943,7 @@
     {
       "title": "react-engine",
       "href": "https://github.com/paypal/react-engine",
-      "short_description": "PayPal's isomorphic React view engine for Express or Kraken",
+      "short_description": "PayPal’s isomorphic React view engine for Express or Kraken",
       "categories": [
         "React"
       ]
@@ -992,7 +1032,7 @@
     {
       "title": "Vulcanize",
       "href": "https://github.com/Polymer/vulcanize",
-      "short_description": "Don't let web components slow your app down. Bundle your HTML imports.",
+      "short_description": "Don’t let web components slow your app down. Bundle your HTML imports.",
       "categories": [
         "Web Components"
       ]
@@ -1041,6 +1081,22 @@
       "title": "Shippable",
       "href": "https://www.shippable.com/",
       "short_description": "Docker-based hosted build / CI",
+      "categories": [
+        "QA / Deployment / Monitoring / CI"
+      ]
+    },
+    {
+      "title": "Tensō",
+      "href": "http://avoidwork.github.io/tenso/",
+      "short_description": "A thin API facade in Node",
+      "categories": [
+        "QA / Deployment / Monitoring / CI"
+      ]
+    },
+    {
+      "title": "Kong",
+      "href": "http://getkong.org/",
+      "short_description": "API/microservice extension and management layer, centralize auth, cache, logging, rate limiting, etc... plugins in LUA );",
       "categories": [
         "QA / Deployment / Monitoring / CI"
       ]
@@ -1104,6 +1160,13 @@
     {
       "title": "JavaScript Jabber",
       "href": "http://devchat.tv/js-jabber/",
+      "categories": [
+        "News"
+      ]
+    },
+    {
+      "title": "Node Module Of The Week",
+      "href": "http://nmotw.in",
       "categories": [
         "News"
       ]
@@ -1212,24 +1275,6 @@
       ]
     },
     {
-      "title": "JavaScript for Kids",
-      "href": "http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2",
-      "short_description": "A playful introduction to programming.",
-      "categories": [
-        "For kids (and people who just love to have fun)"
-      ],
-      "author": "Nick Morgan",
-      "tags": [
-        "kids",
-        "language",
-        "DOM",
-        "jQuery",
-        "Canvas"
-      ],
-      "level": "Beginners",
-      "rank": 9
-    },
-    {
       "title": "LearnToMod",
       "href": "http://www.learntomod.com/",
       "short_description": "Mod Minecraft with JavaScript",
@@ -1238,7 +1283,7 @@
       ]
     },
     {
-      "title": "The Young Person's Guide to Programming in Minecraft",
+      "title": "The Young Person’s Guide to Programming in Minecraft",
       "href": "https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft",
       "categories": [
         "For kids (and people who just love to have fun)"
@@ -1255,7 +1300,7 @@
     {
       "title": "Angus Croll",
       "href": "https://twitter.com/angustweets",
-      "short_description": "Author, \"If Hemingway Wrote JavaScript\"",
+      "short_description": "Author, “If Hemingway Wrote JavaScript”",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1277,17 +1322,17 @@
       ]
     },
     {
-      "title": "David Nolen",
-      "href": "https://twitter.com/swannodette",
-      "short_description": "Great functional programming content",
+      "title": "David Herman",
+      "href": "https://twitter.com/littlecalculist",
+      "short_description": "Author, “Effective JavaScript”",
       "categories": [
         "Twitter (alphabetical order)"
       ]
     },
     {
-      "title": "David Herman",
-      "href": "https://twitter.com/littlecalculist",
-      "short_description": "Author, \"Effective JavaScript\"",
+      "title": "David Nolen",
+      "href": "https://twitter.com/swannodette",
+      "short_description": "Great functional programming content",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1303,7 +1348,7 @@
     {
       "title": "Eric Elliott",
       "href": "https://twitter.com/_ericelliott",
-      "short_description": "That's me. O'Reilly author. JavaScript architect. JS Instructor.",
+      "short_description": "That’s me. O’Reilly author. JavaScript architect. JS Instructor.",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1319,7 +1364,7 @@
     {
       "title": "James Halliday",
       "href": "https://twitter.com/substack",
-      "short_description": "aka Substack - author of ~one million~ Node modules you probably use.",
+      "short_description": "aka Substack — author of ~one million~ Node modules you probably use.",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1359,7 +1404,7 @@
     {
       "title": "Kyle Simpson",
       "href": "https://twitter.com/getify",
-      "short_description": "Author, YDKJS - O'Reilly, JS Instructor, open web evangelist",
+      "short_description": "Author, YDKJS — O’Reilly, JS Instructor, open web evangelist",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1367,7 +1412,7 @@
     {
       "title": "Marijn Haverbeke",
       "href": "https://twitter.com/marijnjh",
-      "short_description": "Author, \"Eloquent JavaScript\"",
+      "short_description": "Author, “Eloquent JavaScript”",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1383,7 +1428,7 @@
     {
       "title": "Nick Morgan",
       "href": "https://twitter.com/skilldrick",
-      "short_description": "Author, \"JavaScript for Kids\"",
+      "short_description": "Author, “JavaScript for Kids”",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1399,7 +1444,7 @@
     {
       "title": "Reginald Braithwaite",
       "href": "https://twitter.com/raganwald",
-      "short_description": "Author, \"JavaScript Allongé\", speaker, GitHub",
+      "short_description": "Author, “JavaScript Allongé,” speaker, PagerDuty",
       "categories": [
         "Twitter (alphabetical order)"
       ]
@@ -1407,13 +1452,21 @@
     {
       "title": "YDKJS",
       "href": "https://twitter.com/ydkjs",
-      "short_description": "You Don't Know JS, O'Reilly book series by Kyle Simpson",
+      "short_description": "You Don’t Know JS, O’Reilly book series by Kyle Simpson",
+      "categories": [
+        "Twitter (alphabetical order)"
+      ]
+    },
+    {
+      "title": "Nicolas Bevacqua",
+      "href": "https://twitter.com/nzgb",
+      "short_description": "Author “JavaScript Application Design,” Speaker, Open-Source Evangelist",
       "categories": [
         "Twitter (alphabetical order)"
       ]
     }
   ],
-  "linkCategories": [
+  "categories": [
     "Required Reading (Online resources)",
     "Required Viewing",
     "Spec",

@@ -52,4 +52,7 @@ coverage
 build/Release
 
 # Dependency directory
-node_modules
+node_modules/
+
+# the site buildg
+dist/
