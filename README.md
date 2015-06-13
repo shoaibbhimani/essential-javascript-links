@@ -120,7 +120,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution.
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
-* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com).
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com)
+* [prod-module-boilerplate](https://github.com/ericelliott/prod-module-boilerplate) A boilerplate for production-ready JavaScript packages
 * [The Isomorphic Express Boilerplate](https://github.com/ericelliott/isomorphic-express-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify.
 * [rootrequire](https://github.com/ericelliott/rootrequire) Require files relative to your project path using the normal node require().
 * [dotty](https://github.com/deoxxa/dotty) Get deep properties using dot notation without throwing. e.g., `dotty.get(req, 'user.id');`
