@@ -72,7 +72,6 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Tern](http://ternjs.net/) Static analysis in JavaScript
 * [JSDoc](http://usejsdoc.org/) Pair with [Tern](http://ternjs.net/) for static analysis
 * [Slate](https://github.com/tripit/slate) Generate beautiful API docs for your apps
-* [Nitrous.IO](https://www.nitrous.io/join/uJcRo6yQDvs?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral) (Supports live collaboration / pair programming)
 * [Slack](http://slack.com) Chat for teams, with GitHub and Google hangouts integration
 * [PrettyDiff](http://prettydiff.com/)
 * [Babel Repl](https://babeljs.io/repl) The Babel REPL with compiled output
