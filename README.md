@@ -129,6 +129,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) A [WHATWG fetch](https://fetch.spec.whatwg.org/). standard polyfill.
 * [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications).
 * [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events.
+* [TodoMVC](http://todomvc.com/) A showcase implementing many MV* libraries/frameworks using a standardized demo app (for easy comparisons).
 * [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
 * [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor.
 * [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React.
