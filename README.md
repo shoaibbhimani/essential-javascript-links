@@ -66,7 +66,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [nvm](https://github.com/creationix/nvm) First install this...
 * [Node](http://nodejs.org/) Then install Node (with nvm). You'll need this even if you're a front-end dev.
 * [npm](https://www.npmjs.com/) Install lots of other things with npm. **The package manager for JavaScript.** Comes with Node.
-* [Sublime Text 3](http://www.sublimetext.com/3)
+* [Atom](https://atom.io/) Nice, hackable editor by GitHub.
 * [Node Inspector](https://github.com/node-inspector/node-inspector) Debug Node code with the Chrome debug tools
 * [TraceGL](https://github.com/traceglMPL/tracegl) Powerful runtime analysis of live JavaScript code
 * [Tern](http://ternjs.net/) Static analysis in JavaScript
