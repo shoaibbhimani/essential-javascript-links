@@ -42,7 +42,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Spec
 
 * [ES5 Spec](http://es5.github.io/) An annotated, hyperlinked version of the ES5 spec
-* [ES6 draft](https://people.mozilla.org/~jorendorff/es6-draft.html)
+* [ES6 Spec](http://www.ecma-international.org/ecma-262/6.0/)
 
 
 ## Books
