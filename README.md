@@ -189,6 +189,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Community
 
+* [JavaScript Questions Chat](https://gitter.im/learn-javascript-courses/javascript-questions) 
 * [JavaScript on Google+](https://plus.google.com/communities/100875929141897651837)
 * [HTML5 on Google+](https://plus.google.com/communities/103299867207875326585)
 * [Node.js on Google+](https://plus.google.com/communities/115365528781941125390)
