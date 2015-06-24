@@ -209,6 +209,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [DailyJS](http://dailyjs.com/)
 * [JavaScript Jabber](http://devchat.tv/js-jabber/)
 * [Node Module Of The Week](http://nmotw.in)
+* [JavascriptKicks](http://javascriptkicks.com)
 
 
 ## Pasting / sharing code
@@ -265,6 +266,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [James Long](https://twitter.com/jlongster) CSP, functional programming advocate, Mozilla developer
 * [JavaScript Cheerleader](https://twitter.com/JS_Cheerleader) Mover & shaker, JavaScript evangelist, documentary film maker
 * [JavaScript Daily](https://twitter.com/JavaScriptDaily) News and links
+* [JavaScriptKicks](https://twitter.com/JavaScriptKicks) News and links
 * [Jordan Harband](https://twitter.com/ljharb) Keeping us ahead of the JS curve
 * [Kyle Simpson](https://twitter.com/getify) Author, YDKJS - O'Reilly, JS Instructor, open web evangelist
 * [Marijn Haverbeke](https://twitter.com/marijnjh) Author, "Eloquent JavaScript"
