@@ -75,7 +75,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Slack](http://slack.com) Chat for teams, with GitHub and Google hangouts integration
 * [PrettyDiff](http://prettydiff.com/)
 * [Babel Repl](https://babeljs.io/repl) The Babel REPL with compiled output
-* [Koding](https://koding.com) Online (free) cloud development platform with video & audio collaboration
+* [Nitrous.IO](https://pro.nitrous.io/) Online IDE in the cloud with collaboration & Docker containers
+* [Koding](https://koding.com) Online cloud development platform with video & audio collaboration
 
 
 ## Building
