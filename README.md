@@ -115,6 +115,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Libraries
 
+* [stats.js.org](http://stats.js.org/) JavaScript repos ranked by popularity. 
 * [es5-shim](https://github.com/es-shims/es5-shim) Stable, production ready.
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution.
