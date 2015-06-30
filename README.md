@@ -247,9 +247,11 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [DigitalOcean](https://www.digitalocean.com/?refcode=fdcfedac5208)
 
-## For kids (and people who just love to have fun)
+## For kids (and adults who just love to have fun)
 
 * [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2)
+* [Screeps](https://screeps.com/) A strategy game you control by writing JavaScript
+* [Fightcode](http://fightcodegame.com/) Program robots to do battle
 * [LearnToMod](http://www.learntomod.com/) Mod Minecraft with JavaScript
 * [The Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft)
 
