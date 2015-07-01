@@ -251,6 +251,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [JavaScript for Kids](http://www.amazon.com/gp/product/B00QL616QE?ie=UTF8&camp=213733&creative=393177&creativeASIN=B00QL616QE&linkCode=shr&tag=ericleads-20&linkId=6AOODC27L6URY3K2)
 * [Screeps](https://screeps.com/) A strategy game you control by writing JavaScript
+* [CodingGame](https://www.codingame.com) Programming puzzle games
 * [Fightcode](http://fightcodegame.com/) Program robots to do battle
 * [LearnToMod](http://www.learntomod.com/) Mod Minecraft with JavaScript
 * [The Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft)
