@@ -28,6 +28,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson
 * [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer
 * [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma #AMDisDead
+* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs
 * [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish
 
 ## Required Viewing
