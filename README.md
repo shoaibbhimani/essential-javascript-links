@@ -123,7 +123,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills.
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com)
 * [prod-module-boilerplate](https://github.com/ericelliott/prod-module-boilerplate) A boilerplate for production-ready JavaScript packages
-* [The Isomorphic Express Boilerplate](https://github.com/ericelliott/isomorphic-express-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify.
+* [The Universal React Boilerplate](https://github.com/ericelliott/universal-react-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify.
+* [NodeGoat](https://github.com/OWASP/NodeGoat) Identify security vulnerabilities in your Node apps.
 * [lightning.js](https://github.com/olark/lightningjs) Async fetch load 3rd party JS & expose a promise API.
 * [dotty](https://github.com/deoxxa/dotty) Get deep properties using dot notation without throwing. e.g., `dotty.get(req, 'user.id');`
 * [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson.
