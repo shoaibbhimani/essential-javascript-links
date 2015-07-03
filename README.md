@@ -172,6 +172,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [GraphQL Specification](https://github.com/facebook/graphql)
 * [GraphQL Reference Implementation](https://github.com/graphql/graphql-js)
 * [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose
+* [Mutations in Relay (slideshow)](https://speakerdeck.com/laneyk/mutations-in-relay) Slideshow + speaker notes
 
 
 ## Web Components
