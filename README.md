@@ -157,15 +157,21 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms)
 * [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
-* [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
-* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
-* [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
-* [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
 * [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken
 * [Radium](http://projects.formidablelabs.com/radium/) Simplify inline styles
 * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/) for Webpack
 * [livereactload](https://github.com/milankinen/livereactload) for Browserify
+
+## Relay & GraphQL
+
+* [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
+* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
+* [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
+* [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
+* [GraphQL Specification](https://github.com/facebook/graphql)
+* [GraphQL Reference Implementation](https://github.com/graphql/graphql-js)
+* [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose
 
 
 ## Web Components
