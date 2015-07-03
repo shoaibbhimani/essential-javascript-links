@@ -156,6 +156,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms)
 * [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX
+* [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
 * [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken
 * [Radium](http://projects.formidablelabs.com/radium/) Simplify inline styles
