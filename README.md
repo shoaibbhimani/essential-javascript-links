@@ -133,9 +133,10 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [sseasy](https://github.com/heroku/sseasy) Server Sent Events for Node (HTML5 standard push notifications).
 * [EventSource browser Polyfill](https://github.com/Yaffle/EventSource/) Required client-side patching to support Server Sent Events.
 * [TodoMVC](http://todomvc.com/) A showcase implementing many MV* libraries/frameworks using a standardized demo app (for easy comparisons).
-* [jQuery](http://jquery.com/) Yes, [I still use jQuery](https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#) and so do 61% of the top 100,000 websites - for good reason.
+* [jQuery](http://jquery.com/) Most popular JS lib by a landslide.
 * [Blaze](http://meteor.github.io/blaze/) DOM-diffing isomorphic reactive templates from Meteor.
 * [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React.
+* [Cycle.js](http://cycle.js.org) Like React, but more functional & reactive
 * [Lodash-FP](https://github.com/lodash/lodash-fp) Like Underscore, but much faster, and featuring a more expressive API.
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express.
