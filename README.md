@@ -52,6 +52,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke
 * [JavaScript: The Good Parts](http://www.amazon.com/gp/product/0596517742?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596517742&linkCode=shr&tag=ericleads-20&linkId=IJKESYSOTWGC27DR) by Douglas Crockford
 * [Effective JavaScript](http://www.amazon.com/gp/product/0321812182?ie=UTF8&camp=213733&creative=393185&creativeASIN=0321812182&linkCode=shr&tag=ericleads-20&linkId=JIC63I267I6UDQQZ) by David Herman
+* [Learn JavaScript Universal App Development with Node, ES6, & React](https://leanpub.com/learn-javascript-react-nodejs-es6/) by Eric Elliott
 * [Programming JavaScript Applications](http://pjabook.com) by Eric Elliott
 * [JavaScript: The Definitive Guide](http://www.amazon.com/gp/product/0596805527?ie=UTF8&camp=213733&creative=393185&creativeASIN=0596805527&linkCode=shr&tag=ericleads-20&linkId=AENIF5KLRQI3N335) by David Flanagan
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
