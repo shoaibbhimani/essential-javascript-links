@@ -117,7 +117,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Libraries
 
-* [stats.js.org](http://stats.js.org/) JavaScript repos ranked by popularity. 
+* [stats.js.org](http://stats.js.org/) JavaScript repos ranked by popularity.
 * [es5-shim](https://github.com/es-shims/es5-shim) Stable, production ready.
 * [es6-shim](https://github.com/es-shims/es6-shim/) Somewhat stable, but a few things I thought were solid got shifted to ES7.
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution.
@@ -171,6 +171,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [react-art](https://github.com/reactjs/react-art)
 * [react-canvas](https://github.com/Flipboard/react-canvas)
 * [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React
+* [react.rocks](http://react.rocks/) Pinterest-style directory of online demos with available code
+* [TodoMVC in React](http://todomvc.com/examples/react/)
+* [JSX Specification](http://facebook.github.io/jsx/)
 
 ## Relay & GraphQL
 
@@ -210,7 +213,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Community
 
-* [JavaScript Questions Chat](https://gitter.im/learn-javascript-courses/javascript-questions) 
+* [JavaScript Questions Chat](https://gitter.im/learn-javascript-courses/javascript-questions)
 * [JavaScript on Google+](https://plus.google.com/communities/100875929141897651837)
 * [HTML5 on Google+](https://plus.google.com/communities/103299867207875326585)
 * [Node.js on Google+](https://plus.google.com/communities/115365528781941125390)
