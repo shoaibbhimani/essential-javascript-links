@@ -17,7 +17,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 * [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson
-* [How to Use ES6 for Isomorphic JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough
+* [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough
 * [Unapply attack](http://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins.
 * [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani
 * [Modularity](http://jlongster.com/Modularity) A pragmatic take on the tiny modules vs batteries included approach
@@ -59,6 +59,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) by Nicholas C. Zakas
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) by Reginald Braithwaite
 * [Node.js in Action](http://www.manning.com/cantelon/) by Mike Cantelon, Marc Harter, T.J. Holowaychuk and Nathan Rajlich
+* ["Seven Languages in Seven Weeks"](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) Learn different ways of solving problems and you'll deepen your understanding of JavaScript. #book
 * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](http://www.amazon.com/gp/product/0670899763?ie=UTF8&camp=213733&creative=393177&creativeASIN=0670899763&linkCode=shr&tag=ericleads-20&linkId=NDUXYQOCMPC47SQI) by M. Mitchell Waldrop
 * [WebGL Fundamentals](http://webglfundamentals.org/) by Greggman - An interactive online book about graphics programming.
 
