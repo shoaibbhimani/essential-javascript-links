@@ -66,6 +66,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Dev tools & collaboration
 
+* [Airety](https://airety.com/) Better developer interviews via pair programming.
 * [nvm](https://github.com/creationix/nvm) First install this...
 * [Node](http://nodejs.org/) Then install Node (with nvm). You'll need this even if you're a front-end dev.
 * [npm](https://www.npmjs.com/) Install lots of other things with npm. **The package manager for JavaScript.** Comes with Node.
@@ -76,6 +77,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JSDoc](http://usejsdoc.org/) Pair with [Tern](http://ternjs.net/) for static analysis
 * [Slate](https://github.com/tripit/slate) Generate beautiful API docs for your apps
 * [Slack](http://slack.com) Chat for teams, with GitHub and Google hangouts integration
+* [Gitter](https://gitter.im/) Like Slack, but better for OSS projects and free chat.
 * [PrettyDiff](http://prettydiff.com/)
 * [Babel Repl](https://babeljs.io/repl) The Babel REPL with compiled output
 * [Nitrous.IO](https://pro.nitrous.io/) Online IDE in the cloud with collaboration & Docker containers
