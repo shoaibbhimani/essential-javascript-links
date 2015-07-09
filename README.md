@@ -184,6 +184,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 * [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
 * [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
+* [Getting started with GraphQL and Node.js](http://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 * [GraphQL Specification](https://github.com/facebook/graphql)
 * [GraphQL Reference Implementation](https://github.com/graphql/graphql-js)
 * [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose
