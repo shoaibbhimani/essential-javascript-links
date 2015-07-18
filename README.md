@@ -106,7 +106,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ### Transpilers
 
-* [Babel](https://github.com/babel/babel) Transpile ES6, ES7 to ES5
+* [Babel](https://github.com/babel/babel) Transpile ES2015 (ES6), ES7 to ES5, JSX to React
 * [CoffeeScript](http://coffeescript.org/)
 * [Emscripten](http://kripken.github.io/emscripten-site/) Frequently used for C/C++ JavaScript ports
 * [ES6 tools](https://github.com/addyosmani/es6-tools) Addy Osmani's ES6 Tools list
