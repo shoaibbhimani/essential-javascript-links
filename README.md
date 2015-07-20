@@ -87,7 +87,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ## Building
 
 * [Browserify](http://browserify.org/) Bundle modules for the browser.
-* [WebPack](http://webpack.github.io/)
+* [Webpack](http://webpack.github.io/) Similar to Browserify, with more batteries included and a config file. Supports live patching rebuilds.
 * [How to use NPM as a Build Tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 * [pre-commit](https://github.com/observing/pre-commit) Easily configure pre-commit hooks for your package
 
