@@ -4,7 +4,7 @@ A curated list by Eric Elliott and friends. Suggest a link with a PR or [open a 
 
 [Help us turn this into a proper website!](https://github.com/ericelliott/essential-javascript-links/issues)
 
-This is a very exclusive collection of only must-have JavaScript links. I'm only listing my favorite links. Nothing else makes the cut. Feel free to suggest links if you think they're good enough to make this list. The really curious should feel free to browse the comments to find other links. I can't guarantee the quality of links in the comments.
+This is a very exclusive collection of only must-have JavaScript links. I'm only listing my favorite links. Nothing else makes the cut. Feel free to suggest links if you think they're truly essential.
 
 ## Full Disclosure
 
