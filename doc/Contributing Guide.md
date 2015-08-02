@@ -2,16 +2,14 @@
 
 These resources will be used by JavaScript developers of all levels to learn the language itself, the best programming practices and the essential libraries, frameworks and tools that are part of the modern JS scene.
 
-We're collecting free training resources that can either be used as self-teaching materials or as a reference for quality materials on certain topics. Noone can possibly learn all the tools and libraries in existence — not all at once, at the very least, but can certainly need a place to look for a library or tool that solves a particular problem.  
-
-One of the reason for this program is to make these materials available for use by housing-first job training programs for the homeless, but there's no reason not to use them by anyone interested.
+One of the reasons for this program is to make these materials available for use by housing-first job training programs for the homeless, but there's no reason not to use them by anyone interested.
 
 Please read [Fighting Poverty with Code](https://medium.com/javascript-scene/fighting-poverty-with-code-d1ed3ebd982d) and [The Cure for Homelessness](https://medium.com/end-homelessness/the-cure-for-homelessness-83ef0d621c71) to learn how this project got started.
 
 
 ## Order
 
-Keep the content in learning order, wherever possible. If a certain section can comprise a learning track, it should be the most logical track possible.
+Keep the content in learning order, wherever feasible. If a certain section can comprise a learning track, it should be the most logical track possible.
 
 
 ## Quality Standard
@@ -69,6 +67,11 @@ We're primarily interested in a few types of content. You'll tell us what kind o
 * Collection. An expert-curated collection of resources for a particular topic (like this one!). **#collection**
 * Course. A full course curriculum, typically put together for an educational organization such as a university, or online school. **#course**
 * Tool. A code editor, a builder, a linter, a debug suite and so on. **#tool**
+* Library. Or framework. Something like Underscore, jQuery or React. **#library**
+
+It's possible for a link to belong to multiple types of content. But please keep types to a minimum. You don't have to add an **#article** tag to a **#tutorial**. Simply use the most specific type applicable and leave multiple type tags for dire cases like this:
+
+> [Eloquent Javascript](http://eloquentjavascript.net/index.html) by Martin Haverbeke #book #excercises
 
 ## Additional hashtags
 
@@ -77,6 +80,8 @@ We're primarily interested in a few types of content. You'll tell us what kind o
 
 ### Just tags
 While some hashtags are reserved for level or type of content, you can (and probably should) add a few more meaningful tags to make it easier for visitors to filter our collection. Your tags may denote platforms like **#node** or **#react**, domains like **#frontend** or **#backend**, concerns like **#testing** or **#building** etc.
+
+Multy-word tags should be delimited by underscores, like **#javascript_environments** or **#hackable_hardware**.
 
 ## Example Learning Track
 
@@ -91,6 +96,6 @@ While some hashtags are reserved for level or type of content, you can (and prob
 ### Transpilers
 
 * [Babel](https://github.com/babel/babel) Transpile ES6, ES7 to ES5. #tool #ES6 #ES2015
-* [CoffeeScript](http://coffeescript.org/) The very concise language that compiles to JS. #tool #languages
-* [Emscripten](http://kripken.github.io/emscripten-site/) Frequently used for C/C++ JavaScript ports. #tool #languages #C
+* [CoffeeScript](http://coffeescript.org/) The very concise language that compiles to JS. #tool #language
+* [Emscripten](http://kripken.github.io/emscripten-site/) Frequently used for C/C++ JavaScript ports. #tool #language #C
 * [ES6 tools] Addy Osmani’s ES6 Tools list #tool #collection #ES6 #ES2015
