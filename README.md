@@ -242,7 +242,6 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [HTML5 Weekly](http://html5weekly.com/)
 * [EchoJS](http://www.echojs.com/)
 * [JavaScript Live](https://jslive.com/)
-* [JavaScript Jabber](http://devchat.tv/js-jabber/)
 * [Node Module Of The Week](http://nmotw.in)
 * [JavascriptKicks](http://javascriptkicks.com)
 
