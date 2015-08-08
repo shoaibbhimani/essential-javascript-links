@@ -162,6 +162,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [inquirer.js](https://github.com/SBoudrias/Inquirer.js) Great library for building CLI tools. #code
 * [rimraf](https://github.com/isaacs/rimraf) `rm -rf` util for nodejs. Great for npm scripts. #code
 * [Wemo.io Open Source VR Tools](https://wemo.io/os) #code
+* [IoT.js](http://samsung.github.io/iotjs/) An Internet of Things JavaScript platform.
 
 
 ## React
