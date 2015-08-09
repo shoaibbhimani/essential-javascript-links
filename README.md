@@ -167,25 +167,25 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## React
 
-* [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms)
+* [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms) #long_video
 * [React blog](http://facebook.github.io/react/blog/) Official React blog
-* [react-stampit](https://github.com/stampit-org/react-stampit) Composable, classless React components made easy
-* [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX
-* [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component
-* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb)
-* [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken
-* [Stilr](https://github.com/kodyl/stilr) Simplify JS component styles
-* [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
-* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) for Webpack
-* [livereactload](https://github.com/milankinen/livereactload) for Browserify
-* [Cerebral](https://github.com/christianalfoni/cerebral)
-* [react-native](https://github.com/facebook/react-native)
-* [react-art](https://github.com/reactjs/react-art)
-* [react-canvas](https://github.com/Flipboard/react-canvas)
-* [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React
+* [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX #article
+* [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component #article
+* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb) #long_video
+* [react-stampit](https://github.com/stampit-org/react-stampit) Composable, classless React components made easy #library
+* [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken #library
+* [Stilr](https://github.com/kodyl/stilr) Simplify JS component styles #library
+* [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) #library
+* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) Live patching for Webpack #library
+* [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify #library
+* [Cerebral](https://github.com/christianalfoni/cerebral) An immutable store for global app state #library
+* [react-native](https://github.com/facebook/react-native) React for mobile devices #library
+* [react-art](https://github.com/reactjs/react-art) React for SVG or canvas #library
+* [react-canvas](https://github.com/Flipboard/react-canvas) React for canvas #library
+* [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React #library
 * [react.rocks](http://react.rocks/) Pinterest-style directory of online demos with available code
-* [TodoMVC in React](http://todomvc.com/examples/react/)
-* [JSX Specification](http://facebook.github.io/jsx/)
+* [TodoMVC in React](http://todomvc.com/examples/react/) #example
+* [JSX Specification](http://facebook.github.io/jsx/) #documentation
 
 ## Relay & GraphQL
 
