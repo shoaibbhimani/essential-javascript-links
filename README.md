@@ -178,6 +178,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/) for Webpack
 * [livereactload](https://github.com/milankinen/livereactload) for Browserify
+* [Cerebral](https://github.com/christianalfoni/cerebral)
 * [react-native](https://github.com/facebook/react-native)
 * [react-art](https://github.com/reactjs/react-art)
 * [react-canvas](https://github.com/Flipboard/react-canvas)
