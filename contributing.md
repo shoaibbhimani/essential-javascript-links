@@ -54,10 +54,10 @@ Open [an issue](https://github.com/ericelliott/essential-javascript-links/issues
 We're primarily interested in a few types of content. You'll tell us what kind of content you're contributing by adding a hashtag at the end — like Twitter or Facebook.
 
 * Video Shorter is better. 5-15 minutes works best. **#video**
-* Long Video. Is your video over 15 minutes? Use hashtag: **#long_video**
 * Book. Only add books that are available for free online. **#book**
 * Article. Blog post? Book excerpt? Paper? The hashtag you want is **#article**
 * Tutorial. A tutorial is a mix of text content and instructions for the reader to follow. **#tutorial**
+* Example. A demo or example implementation of something. **#example**
 * Exercises. Just like tutuorials, but exercises tell the student when something is wrong and let them try to fix it. e.g. [learnrx](http://jhusain.github.io/learnrx/) **#exercises**
 * Project. A resource that describes a project for a student and lets the student complete it. **#project**
 * Game. A game designed to teach the student how to do something. **#game**
