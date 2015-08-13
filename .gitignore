@@ -56,3 +56,4 @@ node_modules/
 
 # the site buildg
 dist/
+build/
