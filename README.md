@@ -178,6 +178,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) #library
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/) Live patching for Webpack #library
 * [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify #library
+* [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps #library
+* [Redux Devtools](https://github.com/gaearon/redux-devtools) DevTools for Redux with hot reloading, timetravel debugging, and customizable UI
 * [Cerebral](https://github.com/christianalfoni/cerebral) An immutable store for global app state #library
 * [react-native](https://github.com/facebook/react-native) React for mobile devices #library
 * [react-art](https://github.com/reactjs/react-art) React for SVG or canvas #library
