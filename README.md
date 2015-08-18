@@ -310,7 +310,6 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JavaScript Daily](https://twitter.com/JavaScriptDaily) News and links
 * [JavaScriptKicks](https://twitter.com/JavaScriptKicks) News and links
 * [Jordan Harband](https://twitter.com/ljharb) Keeping us ahead of the JS curve
-* [Kyle Simpson](https://twitter.com/getify) Author, YDKJS - O'Reilly, JS Instructor, open web evangelist
 * [Marijn Haverbeke](https://twitter.com/marijnjh) Author, "Eloquent JavaScript"
 * [Nicholas C. Zakas](https://twitter.com/slicknet) Author, speaker
 * [Nick Morgan](https://twitter.com/skilldrick) Author, "JavaScript for Kids"
