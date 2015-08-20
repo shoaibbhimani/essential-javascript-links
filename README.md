@@ -132,7 +132,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [es7-shim](https://www.npmjs.com/package/es7-shim) Experimental. Use with caution. #code
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills) A fairly comprehensive list of HTML5 API polyfills. #code
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com) #code
-* [prod-module-boilerplate](https://github.com/ericelliott/prod-module-boilerplate) A boilerplate for production-ready JavaScript packages #code
+* [UpUp](https://www.talater.com/upup/) Make sure your site works even when your user is offline. #code
+* [cf-package](https://github.com/cloverfield-tools/cf-package) A Cloverfield scaffold that generates new modules (npm packages) complete with npm scripts and useful boilerplate. #code
 * [The Universal React Boilerplate](https://github.com/ericelliott/universal-react-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify. #code
 * [NodeGoat](https://github.com/OWASP/NodeGoat) Identify security vulnerabilities in your Node apps. #code
 * [lightning.js](https://github.com/olark/lightningjs) Async fetch load 3rd party JS & expose a promise API. #code
