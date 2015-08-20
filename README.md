@@ -194,14 +194,15 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [Relay](https://github.com/facebook/relay) Build data-driven React applications. #library
 * [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
-* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
-* [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
-* [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
-* [Getting started with GraphQL and Node.js](http://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
+* [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) #video
+* [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html) #article
+* [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) #article
+* [Mutations in Relay (slideshow)](https://speakerdeck.com/laneyk/mutations-in-relay) Slideshow + speaker notes #slideshow
+* [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9) by Christoph Pojer. #article
+* [Getting started with GraphQL and Node.js](http://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/) #article
 * [GraphQL Specification](https://github.com/facebook/graphql)
-* [GraphQL Reference Implementation](https://github.com/graphql/graphql-js)
-* [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose
-* [Mutations in Relay (slideshow)](https://speakerdeck.com/laneyk/mutations-in-relay) Slideshow + speaker notes
+* [GraphQL Reference Implementation](https://github.com/graphql/graphql-js) #code
+* [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose #code
 
 
 ## Web Components
