@@ -252,6 +252,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JavaScript.com News](https://www.javascript.com/news)
 * [Node Module Of The Week](http://nmotw.in)
 * [JavascriptKicks](http://javascriptkicks.com)
+* [Javascript Jabber](https://devchat.tv/js-jabber)
+* [5 Minutes of Javascript](https://fivejs.codeschool.com/)
 
 
 ## Pasting / sharing code
