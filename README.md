@@ -158,7 +158,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Express](http://expressjs.com/) The most popular framework for Node. #code
 * [Stampit](https://github.com/ericelliott/stampit) Create objects from reusable, composable behaviors. Prototypal inheritance with stamps. #code
 * [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential. #code
-* [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) Easy JSON Web Token auth.
+* [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) Easy JSON Web Token auth. #code
 * [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead. #code
 * [velocity](http://julian.com/research/velocity/) & [Velocity Motion Designer (VMD)](http://julian.com/research/velocity/#vmd) UI animation library. #code
 * [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)  A fast [json-schema](http://json-schema.org/) validator. #code
