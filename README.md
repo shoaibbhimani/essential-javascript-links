@@ -186,7 +186,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Redux Devtools](https://github.com/gaearon/redux-devtools) DevTools for Redux with hot reloading, timetravel debugging, and customizable UI
 * [Cerebral](https://github.com/christianalfoni/cerebral) An immutable store for global app state #code
 * [react-native](https://github.com/facebook/react-native) React for mobile devices #code
-* [VelocityReact](https://fabric.io/blog/introducing-the-velocityreact-library) Great animations for React #code
+* [VelocityReact](https://github.com/twitter-fabric/velocity-react) Great animations for React #code
 * [react-art](https://github.com/reactjs/react-art) React for SVG or canvas #code
 * [react-canvas](https://github.com/Flipboard/react-canvas) React for canvas #code
 * [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React #code
