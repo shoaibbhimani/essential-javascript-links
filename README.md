@@ -176,26 +176,27 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX #article
 * [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component #article
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb) #video
-* [react-stampit](https://github.com/stampit-org/react-stampit) Composable, classless React components made easy #library
-* [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken #library
-* [Stilr](https://github.com/kodyl/stilr) Simplify JS component styles #library
-* [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) #library
-* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) Live patching for Webpack #library
-* [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify #library
-* [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps #library
+* [react-stampit](https://github.com/stampit-org/react-stampit) Composable, classless React components made easy #code
+* [react-engine](https://github.com/paypal/react-engine) PayPal's isomorphic React view engine for Express or Kraken #code
+* [Stilr](https://github.com/kodyl/stilr) Simplify JS component styles #code
+* [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) #code
+* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) Live patching for Webpack #code
+* [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify #code
+* [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps #code
 * [Redux Devtools](https://github.com/gaearon/redux-devtools) DevTools for Redux with hot reloading, timetravel debugging, and customizable UI
-* [Cerebral](https://github.com/christianalfoni/cerebral) An immutable store for global app state #library
-* [react-native](https://github.com/facebook/react-native) React for mobile devices #library
-* [react-art](https://github.com/reactjs/react-art) React for SVG or canvas #library
-* [react-canvas](https://github.com/Flipboard/react-canvas) React for canvas #library
-* [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React #library
+* [Cerebral](https://github.com/christianalfoni/cerebral) An immutable store for global app state #code
+* [react-native](https://github.com/facebook/react-native) React for mobile devices #code
+* [VelocityReact](https://fabric.io/blog/introducing-the-velocityreact-library) Great animations for React #code
+* [react-art](https://github.com/reactjs/react-art) React for SVG or canvas #code
+* [react-canvas](https://github.com/Flipboard/react-canvas) React for canvas #code
+* [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React #code
 * [react.rocks](http://react.rocks/) Pinterest-style directory of online demos with available code
 * [TodoMVC in React](http://todomvc.com/examples/react/) #example
 * [JSX Specification](http://facebook.github.io/jsx/) #documentation
 
 ## Relay & GraphQL
 
-* [Relay](https://github.com/facebook/relay) Build data-driven React applications. #library
+* [Relay](https://github.com/facebook/relay) Build data-driven React applications. #code
 * [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) #video
 * [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html) #article
