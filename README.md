@@ -13,24 +13,25 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Required Reading (Online resources)
 
-* [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) One clear path to JavaScript mastery
-* [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
-* [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
-* [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson
-* [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough
-* [Unapply attack](http://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins.
-* [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani
+* [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) One clear path to JavaScript mastery #article
+* [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) #article
+* [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) #article
+* [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson #article
+* [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough #article
+* [Unapply attack](http://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins. #article
+* [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani #article
 * [Modularity](http://jlongster.com/Modularity) A pragmatic take on the tiny modules vs batteries included approach
-* [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) The Way of the Functional Programmer
-* [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you're not a React user.
-* [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-* [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible.
+* [Computer Science in JavaScript](https://github.com/nzakas/computer-science-in-javascript) by Nicholas C. Zakas #article
+* [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) The Way of the Functional Programmer #article
+* [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you're not a React user. #article
+* [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  #article
+* [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. #article
 * [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
-* [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson
-* [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer
-* [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma #AMDisDead
-* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs
-* [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish
+* [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson #article
+* [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer  #article
+* [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma  #article
+* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs #article
+* [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish #article
 
 ## Required Viewing
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott) #talk
