@@ -323,7 +323,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Marijn Haverbeke](https://twitter.com/marijnjh) Author, "Eloquent JavaScript"
 * [Nicholas C. Zakas](https://twitter.com/slicknet) Author, speaker
 * [Nick Morgan](https://twitter.com/skilldrick) Author, "JavaScript for Kids"
+* [Nicolas Bevacqua](https://twitter.com/nzgb) Author "JavaScript Application Design", Speaker, Open-Source Evangelist
 * [Paul Irish](https://twitter.com/paul_irish) Developer evangelist, Chrome dev tools champion
 * [Reginald Braithwaite](https://twitter.com/raganwald) Author, "JavaScript Allongé", speaker, PagerDuty
 * [YDKJS](https://twitter.com/ydkjs) You Don't Know JS, O'Reilly book series by Kyle Simpson
-* [Nicolas Bevacqua](https://twitter.com/nzgb) Author "JavaScript Application Design", Speaker, Open-Source Evangelist
