@@ -200,6 +200,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Relay](https://github.com/facebook/relay) Build data-driven React applications. #code
 * [Data Fetching for React](https://www.youtube.com/watch?v=9sc8Pyc51uU) Relay & GraphQL Described
 * [Introducing Relay and GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) #video
+* [Let's Learn GraphQL](https://learngraphql.com/) #course
 * [Building the Facebook Newsfeed with Relay](https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html) #article
 * [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) #article
 * [Mutations in Relay (slideshow)](https://speakerdeck.com/laneyk/mutations-in-relay) Slideshow + speaker notes #slideshow
