@@ -175,6 +175,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Introducing React](https://www.youtube.com/watch?v=XxVg_s8xAms) #video
 * [React blog](http://facebook.github.io/react/blog/) Official React blog
 * [JSX Looks Like an Abomination but it's Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918) My take on JSX #article
+* [React Pure Component Starter](https://github.com/ericelliott/react-pure-component-starter) Learn React pure components #code
 * [Baby's First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd) Build your first working React component #article
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI&list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) by [Lee Byron](https://twitter.com/leeb) #video
 * [react-stampit](https://github.com/stampit-org/react-stampit) Composable, classless React components made easy #code
